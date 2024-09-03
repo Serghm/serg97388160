@@ -38,7 +38,7 @@ function Vertotodaslastareas(){
    }else{
     let mensaje = "lista de tareas: \n";
     tareas.forEach((tarea, index)=> {
-        
+
 
     });
     {
@@ -77,3 +77,4 @@ function inciarPrograma(){
 }
 
 console.log(inciarPrograma());
+
